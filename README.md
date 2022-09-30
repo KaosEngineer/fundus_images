@@ -1,7 +1,17 @@
 # Fundus Disease Classification
+![image]()
 
-This repository contains a colab notebook which details the training of a model to detect one or 39 different eye conditions (one healthy and 38 diseased) based on images of the fundus. This dataset was taken from kaggle.
+This repository contains a colab notebook which details the training of a model to detect one or 39 different eye conditions (one healthy and 38 diseased) based on images of the fundus. This dataset was taken from [Kaggle](https://www.kaggle.com/datasets/linchundan/fundusimage1000).
 
-A clean version of the dataset can be downloaded from this [google drive](https://drive.google.com/drive/folders/18Rl6OSqn04ac-0UZgod_UfA77OmRfYZ7?usp=sharing)
+The collab notebook contains both the code and solution as well as a write up with analysis at the end.
 
-Trained model checkpoints can be downloaded [here](https://drive.google.com/file/d/1tqHxX2Cjf1j2I0LUeF0n2G_1EFRpUJCT/view?usp=sharing).
+To use repository, please do the following:
+1. Download a clean version of the dataset can be downloaded from this [google drive](https://drive.google.com/drive/folders/18Rl6OSqn04ac-0UZgod_UfA77OmRfYZ7?usp=sharing)
+2. Upload the dataset to your personal google drive
+3. Upload the notebook to colab
+4. Download the trained model checkpoints can be downloaded [here](https://drive.google.com/file/d/1tqHxX2Cjf1j2I0LUeF0n2G_1EFRpUJCT/view?usp=sharing). for evaluation.
+5. Have fun!
+
+
+
+
