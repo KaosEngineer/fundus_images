@@ -1,5 +1,5 @@
 # Fundus Disease Classification
-![image]()
+![image](https://github.com/KaosEngineer/fundus_images/blob/main/class_visualisation.png)
 
 This repository contains a colab notebook which details the training of a model to detect one or 39 different eye conditions (one healthy and 38 diseased) based on images of the fundus. This dataset was taken from [Kaggle](https://www.kaggle.com/datasets/linchundan/fundusimage1000).
 
